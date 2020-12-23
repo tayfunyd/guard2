@@ -1,1 +1,5 @@
-# guard2
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
